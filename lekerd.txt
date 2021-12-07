@@ -3,3 +3,4 @@ előző sorsolások:
     30	57	58	61	86
 leggyakoribb: 
     3 218db
+    
