@@ -1,0 +1,25 @@
+body{
+    background-color: white;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+}
+nav{
+    background-color: gray;
+    height: 100vh;
+
+}
+nav hr{
+    width:90%;
+}
+nav a{
+    text-decoration: none;
+    color: white;
+    padding: 15px;
+}
+#menu{
+    float: left;
+}
+#tartalom{ 
+    padding-left:50px;
+}
