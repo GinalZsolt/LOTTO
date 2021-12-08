@@ -4,6 +4,7 @@ body{
     font-family: Arial, Helvetica, sans-serif;
     
 }
+
 nav{
     background-color: gray;
     height: 100vh;
@@ -11,27 +12,41 @@ nav{
     margin-top: 0px;
     float: left;
 }
+
 nav hr{
     width:90%;
 }
+
 nav img{
     width: inherit;
     margin-bottom: 15px
 }
+
 nav a{
     text-decoration: none;
     color: white;
     padding: 15px;
 }
+
 #tartalom{ 
    
     margin-left:500px;
     padding-top:100px;
     margin-top: 0px;
 }
-#kep{
-height: 120px;
 
+.kep{
+    height: 120px;
 }
 
+h1{
+    font-size: 48pt;
+}
+.sorszam{
+    font-size: 80pt;
+    align-items: center;
+}
+.db{
+    font-size: 35pt;
 
+}
