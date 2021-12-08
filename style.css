@@ -11,6 +11,7 @@ nav{
     height: 100vh;
     width: 400px;
     margin-top: 0px;
+    float: left;
 }
 nav hr{
     width:90%;
@@ -24,13 +25,10 @@ nav a{
     color: white;
     padding: 15px;
 }
-#menu{
-    float: left;
-}
 #tartalom{ 
    
     margin-left:500px;
-    padding-top:150px;
+    padding-top:100px;
     margin-top: 0px;
 }
 #kep{
