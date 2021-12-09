@@ -6,7 +6,7 @@ body{
 }
 
 nav{
-    background-color: gray;
+    background-color: rgb(75, 75, 75);
     height: 100vh;
     width: 400px;
     margin-top: 0px;
