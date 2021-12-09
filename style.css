@@ -50,7 +50,8 @@ h1{
     font-size: 35pt;
 
 }
-.szoveg{
-    font: arial;
+p{ margin-right: 100px;}
+
+#betumeret{
     font-size: 15pt;
 }
