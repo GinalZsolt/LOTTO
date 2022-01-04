@@ -18,3 +18,8 @@ leghasonlóbb
 
 sorozatok
 
+4 egymást követő:
+    22,42,62,82,84
+3 egymást követő:
+    38,43,48,53,69
+    48,55,62,69,80
