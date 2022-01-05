@@ -55,3 +55,10 @@ p{ margin-right: 100px;}
 #betumeret{
     font-size: 15pt;
 }
+.graf{
+    width: 40vw;
+    height: 40vh;
+    display: block;
+    margin: auto;
+    
+}
