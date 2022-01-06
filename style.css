@@ -31,7 +31,7 @@ nav a{
 
 #tartalom{ 
    
-    margin-left:500px;
+    margin-left: 500px;
     padding-top:100px;
     margin-top: 0px;
 }
@@ -63,8 +63,12 @@ p{ margin-right: 100px;}
     margin: auto;
     
 }
-@media screen and (max-width:526px){
-    .tartalom{
-        margin: 5%;
+@media screen and (max-width:766px){
+    #tartalom{
+        margin: 0;
+        padding: 0;
+        display: block;
+        position: relative;
     }
+    
 }
