@@ -73,6 +73,9 @@ p{ margin-right: 100px;}
         display: block;
         position: relative;
     }
+    .graf{
+        width: 90vw;
+    }
     
 }
 #menucim{
