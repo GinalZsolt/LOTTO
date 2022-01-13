@@ -8,7 +8,7 @@
 ### Korábbi sorsolások:
 - Alapértelmezett index oldal 
 - Az oldal a két legutolsó heti lottó eredményeket mutatja
-![index.html](/kep/index.png)
+![index.html](/kepek/index.png)
 ### Leggyakoribb számok:
 ### Leghasonlóbb számok:
 ### Leghosszabb sorozatok számsorokban:
