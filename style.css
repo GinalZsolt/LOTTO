@@ -63,6 +63,7 @@ p{ margin-right: 100px;}
     margin: auto;
     
 }
+/*                               Innentől bootstrap                                  */
 #felso{
     background: linear-gradient(0deg, #212529 45% ,#00965e 100%);
 }

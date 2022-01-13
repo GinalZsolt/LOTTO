@@ -1,13 +1,17 @@
-#Lotto projekt
-
-Tagok:
-    Ginál Zsolt
-    Hebők Martin
-    Korábbi sorsolások:
-    Leggyakoribb számok:
-    Leghasonlóbb számok:
-    Leghosszabb sorozatok számsorokban:
-    Legkisebb összegű számsorok:
-    Grafikonok:
-    Érdekes történetek:
+# Lotto projekt
     https://ginalzsolt.github.io/LOTTO/
+
+## Tagok:
+- Ginál Zsolt
+- Hebők Martin
+## Oladalak
+### Korábbi sorsolások:
+- Alapértelmezett index oldal 
+- Az oldal a két legutolsó heti lottó eredményeket mutatja
+![index.html](/kep/index.png)
+### Leggyakoribb számok:
+### Leghasonlóbb számok:
+### Leghosszabb sorozatok számsorokban:
+### Legkisebb összegű számsorok:
+### Grafikonok:
+### Érdekes történetek:
