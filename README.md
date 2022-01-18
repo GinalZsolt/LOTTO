@@ -1,5 +1,6 @@
 # Lotto projekt
-    https://ginalzsolt.github.io/LOTTO/
+    
+![weboldal](https://ginalzsolt.github.io/LOTTO/)
 
 ## Tagok:
 - Ginál Zsolt
