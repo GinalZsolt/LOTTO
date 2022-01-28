@@ -67,7 +67,7 @@ p{ margin-right: 100px;}
 #felso{
     background: linear-gradient(0deg, #212529 45% ,#00965e 100%);
 }
-@media screen and (max-width:765px){
+@media screen and (max-width:767px){
     #tartalom{
         margin: 15px;
         padding: 0;
